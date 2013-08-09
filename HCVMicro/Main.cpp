@@ -8,6 +8,8 @@
 // 3) report back the simulation results
 // 
 // TOOK OUT ONE LINE
+// ADDED ONE BACK IN
+// THIRD LINE FROM SHAN
 // ***********************************************************************
 
 #include <stdio.h>

@@ -1,0 +1,9 @@
+	"CC, white"	"CT, white"	"TT, white"	"CC, black"	"CT, black"	"TT, black"
+"pEVR_0_12wks, GT1"	0.98	0.91	0.91	0.76	0.45	0.45
+"ppast24wks_12wks, GT1"	0.97	0.86	0.86	0.95	0.78	0.78
+"pSVR_48wks, GT1"	0.604607667	0.33782318	0.33782318	0.67	0.4	0.4
+"pSVR_redux_F4, GT1"	0.8	0.8	0.8	0.8	0.8	0.8
+"pSVR_24wks_F03, GT2"	0.8	0.8	0.8	0.8	0.8	0.8
+"pSVR_redux_F4, GT2"	0.8	0.8	0.8	0.8	0.8	0.8
+"pSVR_24wks_F03, GT3"	0.8	0.8	0.8	0.8	0.8	0.8
+"pSVR_redux_F4, GT3"	0.8	0.8	0.8	0.8	0.8	0.8

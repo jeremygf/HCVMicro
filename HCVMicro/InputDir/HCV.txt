@@ -1,0 +1,3 @@
+HCV	"f,w,lr"	"f,w,hr"	"f,b,lr"	"f,b,hr"	"m,w,lr"	"m,w,hr"	"m,b,lr"	"m,b,hr"
+HCV-	0	0	0	0	0	0	0	0
+HCV+	1	1	1	1	1	1	1	1
